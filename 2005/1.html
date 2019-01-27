@@ -12,11 +12,12 @@ $(function () {
   $.ajax({
     url:'e.txt',
     success: function(data){
-      var data_array = data.split(/\r\n|\r|\n/);  // ‰üsƒR[ƒh‚Å•ªŠ„
+      var data_array = data.split(/\r\n|\r|\n/);  // â€°Ã¼ÂsÆ’RÂ[Æ’hâ€šÃ…â€¢ÂªÅ â€
       var len = data_array.length;
 
       for (var i = 0; i < len; i++){
         console.log(data_array[i]);
+        $('body').append(data_array[i] + "</br>");
       }
     }
   });
