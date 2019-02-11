@@ -1,0 +1,223 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>サンプル</title>
+<script>
+
+function outputSelectedValueAndText(obj)
+{
+    var idx = obj.selectedIndex;
+    var value = obj.options[idx].value; // 値
+    var text  = obj.options[idx].text;  // 表示テキスト
+
+    console.log('value = ' + value + ', ' + 'text = ' + text);
+   document.getElementById("audio01").src = value;
+}
+
+
+</script>
+</head>
+<body>
+<p>やさビジ 2005</p>
+<select name="select" onchange="outputSelectedValueAndText(this);" style="width: 300px;">
+<option value="02_L01-01_Headhunters_Call.mp3">02_L01-01_Headhunters_Call.mp3</option>
+<option value="03_L01-02_Headhunters_Call.mp3">03_L01-02_Headhunters_Call.mp3</option>
+<option value="04_L01-03_Headhunters_Call.mp3">04_L01-03_Headhunters_Call.mp3</option>
+<option value="05_L01-04_Headhunters_Call.mp3">05_L01-04_Headhunters_Call.mp3</option>
+<option value="06_L02-01_Personal_Decision-Making.mp3">06_L02-01_Personal_Decision-Making.mp3</option>
+<option value="07_L02-02_Personal_Decision-Making.mp3">07_L02-02_Personal_Decision-Making.mp3</option>
+<option value="08_L02-03_Personal_Decision-Making.mp3">08_L02-03_Personal_Decision-Making.mp3</option>
+<option value="09_L02-04_Personal_Decision-Making.mp3">09_L02-04_Personal_Decision-Making.mp3</option>
+<option value="10_L03-01_Job_Interview.mp3">10_L03-01_Job_Interview.mp3</option>
+<option value="11_L03-02_Job_Interview.mp3">11_L03-02_Job_Interview.mp3</option>
+<option value="12_L03-03_Job_Interview.mp3">12_L03-03_Job_Interview.mp3</option>
+<option value="13_L03-04_Job_Interview.mp3">13_L03-04_Job_Interview.mp3</option>
+<option value="14_L04-01_New_York_New_York.mp3">14_L04-01_New_York_New_York.mp3</option>
+<option value="15_L04-02_New_York_New_York.mp3">15_L04-02_New_York_New_York.mp3</option>
+<option value="16_L04-03_New_York_New_York.mp3">16_L04-03_New_York_New_York.mp3</option>
+<option value="17_L04-04_New_York_New_York.mp3">17_L04-04_New_York_New_York.mp3</option>
+<option value="18_L05-01_New_Team.mp3">18_L05-01_New_Team.mp3</option>
+<option value="19_L05-02_New_Team.mp3">19_L05-02_New_Team.mp3</option>
+<option value="20_L05-03_New_Team.mp3">20_L05-03_New_Team.mp3</option>
+<option value="21_L05-04_New_Team.mp3">21_L05-04_New_Team.mp3</option>
+<option value="22_L06-01_Whats_Cooking.mp3">22_L06-01_Whats_Cooking.mp3</option>
+<option value="23_L06-02_Whats_Cooking.mp3">23_L06-02_Whats_Cooking.mp3</option>
+<option value="24_L06-03_Whats_Cooking.mp3">24_L06-03_Whats_Cooking.mp3</option>
+<option value="25_L06-04_Whats_Cooking.mp3">25_L06-04_Whats_Cooking.mp3</option>
+<option value="26_L07-01_Corporate_Security.mp3">26_L07-01_Corporate_Security.mp3</option>
+<option value="27_L07-02_Corporate_Security.mp3">27_L07-02_Corporate_Security.mp3</option>
+<option value="28_L07-03_Corporate_Security.mp3">28_L07-03_Corporate_Security.mp3</option>
+<option value="29_L07-04_Corporate_Security.mp3">29_L07-04_Corporate_Security.mp3</option>
+<option value="30_L08-01_Life_Priority_Change.mp3">30_L08-01_Life_Priority_Change.mp3</option>
+<option value="31_L08-02_Life_Priority_Change.mp3">31_L08-02_Life_Priority_Change.mp3</option>
+<option value="32_L08-03_Life_Priority_Change.mp3">32_L08-03_Life_Priority_Change.mp3</option>
+<option value="33_L08-04_Life_Priority_Change.mp3">33_L08-04_Life_Priority_Change.mp3</option>
+<option value="34_L09-01_Laughing_Again.mp3">34_L09-01_Laughing_Again.mp3</option>
+<option value="35_L09-02_Laughing_Again.mp3">35_L09-02_Laughing_Again.mp3</option>
+<option value="36_L09-03_Laughing_Again.mp3">36_L09-03_Laughing_Again.mp3</option>
+<option value="37_L09-04_Laughing_Again.mp3">37_L09-04_Laughing_Again.mp3</option>
+<option value="38_L10-01_Mall_Malaise.mp3">38_L10-01_Mall_Malaise.mp3</option>
+<option value="39_L10-02_Mall_Malaise.mp3">39_L10-02_Mall_Malaise.mp3</option>
+<option value="40_L10-03_Mall_Malaise.mp3">40_L10-03_Mall_Malaise.mp3</option>
+<option value="41_L10-04_Mall_Malaise.mp3">41_L10-04_Mall_Malaise.mp3</option>
+</select>
+<select name="select" onchange="outputSelectedValueAndText(this);" style="width: 300px;">
+<option value="42_L11-01_Telecommuting.mp3">42_L11-01_Telecommuting.mp3</option>
+<option value="43_L11-02_Telecommuting.mp3">43_L11-02_Telecommuting.mp3</option>
+<option value="44_L11-03_Telecommuting.mp3">44_L11-03_Telecommuting.mp3</option>
+<option value="45_L11-04_Telecommuting.mp3">45_L11-04_Telecommuting.mp3</option>
+<option value="46_L12-01_Flying_on_Business.mp3">46_L12-01_Flying_on_Business.mp3</option>
+<option value="47_L12-02_Flying_on_Business.mp3">47_L12-02_Flying_on_Business.mp3</option>
+<option value="48_L12-03_Flying_on_Business.mp3">48_L12-03_Flying_on_Business.mp3</option>
+<option value="49_L12-04_Flying_on_Business.mp3">49_L12-04_Flying_on_Business.mp3</option>
+<option value="50_L13-01_Office_E-mail.mp3">50_L13-01_Office_E-mail.mp3</option>
+<option value="51_L13-02_Office_E-mail.mp3">51_L13-02_Office_E-mail.mp3</option>
+<option value="52_L13-03_Office_E-mail.mp3">52_L13-03_Office_E-mail.mp3</option>
+<option value="53_L13-04_Office_E-mail.mp3">53_L13-04_Office_E-mail.mp3</option>
+<option value="01_L14-01_Childrens_Nutrition.mp3">01_L14-01_Childrens_Nutrition.mp3</option>
+<option value="02_L14-02_Childrens_Nutrition.mp3">02_L14-02_Childrens_Nutrition.mp3</option>
+<option value="03_L14-03_Childrens_Nutrition.mp3">03_L14-03_Childrens_Nutrition.mp3</option>
+<option value="04_L14-04_Childrens_Nutrition.mp3">04_L14-04_Childrens_Nutrition.mp3</option>
+<option value="05_L15-01_Early_Birds.mp3">05_L15-01_Early_Birds.mp3</option>
+<option value="06_L15-02_Early_Birds.mp3">06_L15-02_Early_Birds.mp3</option>
+<option value="07_L15-03_Early_Birds.mp3">07_L15-03_Early_Birds.mp3</option>
+<option value="08_L15-04_Early_Birds.mp3">08_L15-04_Early_Birds.mp3</option>
+<option value="09_L16-01_Safe_Driving.mp3">09_L16-01_Safe_Driving.mp3</option>
+<option value="10_L16-02_Safe_Driving.mp3">10_L16-02_Safe_Driving.mp3</option>
+<option value="11_L16-03_Safe_Driving.mp3">11_L16-03_Safe_Driving.mp3</option>
+<option value="12_L16-04_Safe_Driving.mp3">12_L16-04_Safe_Driving.mp3</option>
+<option value="13_L17-01_Family_Values.mp3">13_L17-01_Family_Values.mp3</option>
+<option value="14_L17-02_Family_Values.mp3">14_L17-02_Family_Values.mp3</option>
+<option value="15_L17-03_Family_Values.mp3">15_L17-03_Family_Values.mp3</option>
+<option value="16_L17-04_Family_Values.mp3">16_L17-04_Family_Values.mp3</option>
+<option value="17_L18-01_Taste_Shifts.mp3">17_L18-01_Taste_Shifts.mp3</option>
+<option value="18_L18-02_Taste_Shifts.mp3">18_L18-02_Taste_Shifts.mp3</option>
+<option value="19_L18-03_Taste_Shifts.mp3">19_L18-03_Taste_Shifts.mp3</option>
+<option value="20_L18-04_Taste_Shifts.mp3">20_L18-04_Taste_Shifts.mp3</option>
+<option value="21_L19-01_Dressing_Trends.mp3">21_L19-01_Dressing_Trends.mp3</option>
+<option value="22_L19-02_Dressing_Trends.mp3">22_L19-02_Dressing_Trends.mp3</option>
+<option value="23_L19-03_Dressing_Trends.mp3">23_L19-03_Dressing_Trends.mp3</option>
+<option value="24_L19-04_Dressing_Trends.mp3">24_L19-04_Dressing_Trends.mp3</option>
+<option value="25_L20-01_Clean_Hands_Campaign.mp3">25_L20-01_Clean_Hands_Campaign.mp3</option>
+<option value="26_L20-02_Clean_Hands_Campaign.mp3">26_L20-02_Clean_Hands_Campaign.mp3</option>
+<option value="27_L20-03_Clean_Hands_Campaign.mp3">27_L20-03_Clean_Hands_Campaign.mp3</option>
+<option value="28_L20-04_Clean_Hands_Campaign.mp3">28_L20-04_Clean_Hands_Campaign.mp3</option>
+<option value="29_L21-01_Pet_Care.mp3">29_L21-01_Pet_Care.mp3</option>
+<option value="30_L21-02_Pet_Care.mp3">30_L21-02_Pet_Care.mp3</option>
+<option value="31_L21-03_Pet_Care.mp3">31_L21-03_Pet_Care.mp3</option>
+<option value="32_L21-04_Pet_Care.mp3">32_L21-04_Pet_Care.mp3</option>
+<option value="33_L22-01_Volunteer_Families.mp3">33_L22-01_Volunteer_Families.mp3</option>
+<option value="34_L22-02_Volunteer_Families.mp3">34_L22-02_Volunteer_Families.mp3</option>
+<option value="35_L22-03_Volunteer_Families.mp3">35_L22-03_Volunteer_Families.mp3</option>
+<option value="36_L22-04_Volunteer_Families.mp3">36_L22-04_Volunteer_Families.mp3</option>
+<option value="37_L23-01_Internship.mp3">37_L23-01_Internship.mp3</option>
+<option value="38_L23-02_Internship.mp3">38_L23-02_Internship.mp3</option>
+<option value="39_L23-03_Internship.mp3">39_L23-03_Internship.mp3</option>
+<option value="40_L23-04_Internship.mp3">40_L23-04_Internship.mp3</option>
+<option value="41_L24-01_Working_Too_Hard.mp3">41_L24-01_Working_Too_Hard.mp3</option>
+<option value="42_L24-02_Working_Too_Hard.mp3">42_L24-02_Working_Too_Hard.mp3</option>
+<option value="43_L24-03_Working_Too_Hard.mp3">43_L24-03_Working_Too_Hard.mp3</option>
+<option value="44_L24-04_Working_Too_Hard.mp3">44_L24-04_Working_Too_Hard.mp3</option>
+<option value="45_L25-01_Life_After_Layoffs.mp3">45_L25-01_Life_After_Layoffs.mp3</option>
+<option value="46_L25-02_Life_After_Layoffs.mp3">46_L25-02_Life_After_Layoffs.mp3</option>
+<option value="47_L25-03_Life_After_Layoffs.mp3">47_L25-03_Life_After_Layoffs.mp3</option>
+<option value="48_L25-04_Life_After_Layoffs.mp3">48_L25-04_Life_After_Layoffs.mp3</option>
+<option value="49_L26-01_Vacation_Time.mp3">49_L26-01_Vacation_Time.mp3</option>
+<option value="50_L26-02_Vacation_Time.mp3">50_L26-02_Vacation_Time.mp3</option>
+<option value="51_L26-03_Vacation_Time.mp3">51_L26-03_Vacation_Time.mp3</option>
+<option value="52_L26-04_Vacation_Time.mp3">52_L26-04_Vacation_Time.mp3</option>
+</select>
+
+
+<audio id="audio01" src="" controls="" style="width: 1000px;"></audio>
+</br>
+<button onClick="play_05()">0.5倍速</button>
+<button onClick="play_10()">1倍速</button>
+<button onClick="play_15()">1.5倍速</button>
+<button onClick="play_20()">2倍速</button>
+<button onClick="play_start()">再生</button>
+<button onClick="play_pause()">停止</button></br></br>
+<button onClick="play_back1()">1秒戻る</button>
+<button onClick="play_back2()">2秒戻る</button>
+<button onClick="play_back3()">3秒戻る</button>
+<button onClick="play_back5()">5秒戻る</button>
+<button onClick="play_forward10()">10秒先</button></br>
+
+
+
+<script>
+
+a=document.getElementById("audio01");
+
+function play_05(){
+a.playbackRate = 0.5;
+a.play();
+}
+function play_10(){
+a.playbackRate = 1;
+a.play();
+}
+function play_15(){
+a.playbackRate = 1.5;
+a.play();
+}
+function play_20(){
+a.playbackRate = 2;
+a.play();
+}
+
+function play_start(){a.play();}
+function play_pause(){a.pause();}
+
+
+function play_back1(){
+var aa = a.currentTime;
+var bb = aa - 1;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+
+function play_back2(){
+var aa = a.currentTime;
+var bb = aa - 2;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+
+function play_back3(){
+var aa = a.currentTime;
+var bb = aa - 3;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+
+function play_back5(){
+var aa = a.currentTime;
+var bb = aa - 5;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+
+function play_forward10(){
+var aa = a.currentTime;
+var bb = aa + 10;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+
+
+</script>
+
+</br>
+<a href="https://mzhashim.github.io/nhk_english/2005/1.html" target="_blank">英語スクリプト</a>
+<a href="https://mzhashim.github.io/nhk_english/2005/J.html" target="_blank">日本語スクリプト</a>
+
+
+</body>
+</html>
