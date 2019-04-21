@@ -26,6 +26,35 @@ xmlhttp.onreadystatechange = function() {
 if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
      xhrres = xmlhttp.responseText;
      console.log(xhrres);
+     
+               var a = function() {
+               b2=document.getElementById("audio01").currentTime;
+               b=parseInt(b2).toString()
+               current_min=(b.toString().split(".")[0]/60).toString().split(".")[0]
+               current_sec=b.toString().split(".")[0]%60
+               current_min=('00'+current_min).slice(-2);
+               current_sec=('00'+current_sec).slice(-2);
+
+               console.log(current_min);
+               for(i=0; i<xhrres.split("\n").length; i++){
+                if(xhrres.split("\n")[i].match(/-->/))
+                {
+                   c=xhrres.split("\n")[i];
+                   //console.log("spliet");console.log(c.split(":")[1]);
+                   //console.log("current_min");console.log(current_min);
+                   if(c.split(":")[1] == current_min && c.split(":")[2].substring(0,2) == current_sec)
+                   {//console.log(xhrres.split("\n")[i+1]);
+                     document.getElementById("pid1").innerHTML= xhrres.split("\n")[i+1];
+                   }
+                }
+               } //End of for
+
+               };
+               setInterval(a, 50);
+
+     
+     
+     
     }
 }
 
