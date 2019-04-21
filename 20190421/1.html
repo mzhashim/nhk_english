@@ -44,7 +44,7 @@ if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
                    //console.log("current_min");console.log(current_min);
                    if(c.split(":")[1] == current_min && c.split(":")[2].substring(0,2) == current_sec)
                    {//console.log(xhrres.split("\n")[i+1]);
-                     document.getElementById("pid1").innerHTML= xhrres.split("\n")[i+1];
+                     document.getElementById("pid1").innerHTML= xhrres.split("\n")[i+1] + " " + xhrres.split("\n")[i+2] ;
                    }
                 }
                } //End of for
