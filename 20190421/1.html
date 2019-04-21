@@ -19,6 +19,17 @@ document.getElementById("audio01").src = value;
 document.getElementsByTagName("a")[0].href=value + ".txt";
 
 
+url=value + ".txt";
+xmlhttp = new XMLHttpRequest();
+xmlhttp.open("GET", url);
+xmlhttp.onreadystatechange = function() {
+if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+     xhrres = xmlhttp.responseText;
+     console.log(xhrres);
+    }
+}
+
+xmlhttp.send();
 
 
 }
