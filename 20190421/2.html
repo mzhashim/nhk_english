@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=10.0, user-scalable=yes">
+<title>ISS 2017秋-2018春</title>
+<script>
+function outputSelectedValueAndText(obj)
+{
+var idx = obj.selectedIndex;
+var value = obj.options[idx].value; // 値
+var text  = obj.options[idx].text;  // 表示テキスト
+console.log('value = ' + value + ', ' + 'text = ' + text);
+document.getElementById("audio01").src = value;
+document.getElementsByTagName("a")[0].href=value + ".txt";
+url=value + ".txt";
+xmlhttp = new XMLHttpRequest();
+xmlhttp.open("GET", url);
+xmlhttp.onreadystatechange = function() {
+if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+     xhrres = xmlhttp.responseText;
+     console.log(xhrres);
+     
+               var a = function() {
+               b2=document.getElementById("audio01").currentTime;
+               b=parseInt(b2).toString()
+               current_min=(b.toString().split(".")[0]/60).toString().split(".")[0]
+               current_sec=b.toString().split(".")[0]%60
+               current_min=('00'+current_min).slice(-2);
+               current_sec=('00'+current_sec).slice(-2);
+               console.log(current_min);
+               for(i=0; i<xhrres.split("\n").length; i++){
+                if(xhrres.split("\n")[i].match(/-->/))
+                {
+                   c=xhrres.split("\n")[i];
+                   //console.log("spliet");console.log(c.split(":")[1]);
+                   //console.log("current_min");console.log(current_min);
+                   if(c.split(":")[1] == current_min && c.split(":")[2].substring(0,2) == current_sec)
+                   {//console.log(xhrres.split("\n")[i+1]);
+                     document.getElementById("pid1").innerHTML= xhrres.split("\n")[i+1] + " " + xhrres.split("\n")[i+2] + " " + xhrres.split("\n")[i+3]+ " " + xhrres.split("\n")[i+4] + " " + xhrres.split("\n")[i+5];
+                   }
+                }
+               } //End of for
+               };
+               setTimeout("a()", 500);
+     
+     
+     
+    }
+}
+xmlhttp.send();
+}
+</script>
+</head>
+<body>
+<p>ISS 2017秋-2018春</p>
+<select name="select" onchange="outputSelectedValueAndText(this);" style="width: 300px;">
+
+<option value="20190421_Bumblebee_Hailee_Steinfled_interview.mp3">20190421_Bumblebee_Hailee_Steinfled_interview.mp3</option>
+<option value="JJ133_australia_17F.mp3">JJ133_australia_17F.mp3</option>
+<option value="4.JJ137_Conditionals.mp3">4.JJ137_Conditionals.mp3</option>
+
+
+</select>
+
+
+<audio id="audio01" src="" controls="" style="width: 300px;" loop></audio>
+</br>
+<button onClick="play_02()">0.2速</button>
+<button onClick="play_05()">0.5速</button>
+<button onClick="play_start()" style="margin: 10px;">再生</button></br>
+<!--<button onClick="play_pause()">停止</button></br></br>-->
+<button onClick="play_back1()">1秒(も)</button>
+<button onClick="play_back2()" style="margin: 10px;">2秒(も)</button></br>
+<button onClick="play_back3()">3秒(も)</button>
+<button onClick="play_back5()" style="margin: 10px;">5秒(も)</button>
+<button onClick="play_forward10()">10秒先</button></br>
+
+
+
+<script>
+a=document.getElementById("audio01");
+function play_02(){
+a.playbackRate = 0.2;
+a.play();
+}
+function play_05(){
+a.playbackRate = 0.5;
+a.play();
+}
+function play_10(){
+a.playbackRate = 1;
+a.play();
+}
+function play_15(){
+a.playbackRate = 1.5;
+a.play();
+}
+function play_20(){
+a.playbackRate = 2;
+a.play();
+}
+function play_start(){a.playbackRate = 1;a.play();}
+function play_pause(){a.pause();}
+function play_back1(){
+var aa = a.currentTime;
+var bb = aa - 1;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+function play_back2(){
+var aa = a.currentTime;
+var bb = aa - 2;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+function play_back3(){
+var aa = a.currentTime;
+var bb = aa - 3;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+function play_back5(){
+var aa = a.currentTime;
+var bb = aa - 5;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+function play_forward10(){
+var aa = a.currentTime;
+var bb = aa + 10;
+a.pause();
+a.currentTime = bb;
+a.play();
+}
+</script>
+
+
+
+</br>
+
+<a href="" target="_blank">英語スクリプト</a>
+
+<p id="pid1">None</p>
+
+</body>
+</html>
