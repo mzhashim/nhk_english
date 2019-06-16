@@ -153,6 +153,7 @@ a2.href=url2
 
 <audio id="audio01" src="" controls="" style="width: 300px;" loop></audio>
 </br>
+<button onClick="play_02()">0.2速</button> 
 <button onClick="play_05()">0.5速</button>
 <button onClick="play_start()" style="margin: 10px;">再生</button></br>
 <!--<button onClick="play_pause()">停止</button></br></br>-->
@@ -168,6 +169,11 @@ a2.href=url2
 
 a=document.getElementById("audio01");
 
+  
+function play_02(){
+a.playbackRate = 0.2;
+a.play();
+}
 function play_05(){
 a.playbackRate = 0.5;
 a.play();
