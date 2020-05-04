@@ -66,11 +66,7 @@ player.loadVideoById(_videoId)
 player.playVideo();}
 function play_start2(){
 console.log("start2");
-a=document.getElementsByName("url").item(0).value;
-if ( a.startsWith("https://www.youtube.com/") ){_videoId=a.split('=',2)[1].split('&')[0];
-}else if ( a.startsWith("https://youtu.be/")) {_videoId=a.split('//')[1].split('/')[1];
-}else{console.log('url error');}
-player.loadVideoById(_videoId)
+player.seekTo(player.getCurrentTime());
 player.playVideo();}
 
 function play_pause(){player.pauseVideo();}
