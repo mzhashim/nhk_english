@@ -1,21 +1,21 @@
-CNN REPORTER: Nothing is simple about the technology behind this cashier-less store.  The Amazon Go market uses artificial intelligence to monitor what youfve reached for on the shelf and to make sure you're charged for what you walked out with and nothing else. The Amazon Go store is by no means the only place where Amazon uses AI.
-PETER LARSEN (V P, AMAZON D ELIVERY T ECHNOLOGY): Wefve got hundreds of teams working on artificial intelligence programs across Amazon. Artificial intelligence like machine learning powers the simplicity that we always want to offer to our customers.
+CNN REPORTER: Nothing is simple about the technology behind this cashier-less store.  The Amazon Go market uses artificial intelligence to monitor what youâ€™ve reached for on the shelf and to make sure you're charged for what you walked out with and nothing else. The Amazon Go store is by no means the only place where Amazon uses AI.
+PETER LARSEN (V P, AMAZON D ELIVERY T ECHNOLOGY): Weâ€™ve got hundreds of teams working on artificial intelligence programs across Amazon. Artificial intelligence like machine learning powers the simplicity that we always want to offer to our customers.
 
-‚b‚m‚m‹LÒ: ‚±‚ÌƒŒƒW‚Ì‚È‚¢“X‚Ì— ‘¤‚É‚ ‚é‹Zp‚ÍAŒˆ‚µ‚Ä’Pƒ‚È‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñBƒAƒ}ƒ]ƒ“EƒS[“X‚Å‚ÍlH’m”\‚ğg‚¢A‚ ‚È‚½‚ª‰½‚ğæ‚ë‚¤‚Æ’I‚Éè‚ğL‚Î‚µ‚½‚©‚ğŠÄ‹‚µA‚ ‚È‚½‚ª‚Á‚ÄŠO‚Éo‚½‚à‚Ì‚¾‚¯‚É‘Î‚µ‚ÄŠmÀ‚Éx•¥‚¢‚ğ¿‹‚³‚ê‚é‚æ‚¤‚É‚µ‚Ü‚·B ƒAƒ}ƒ]ƒ“EƒS[‚Ì“X•Ü‚ÍAƒAƒ}ƒ]ƒ“‚ªAI‚ğg‚Á‚Ä‚¢‚é—Bˆê‚ÌêŠ‚Å‚ÍŒˆ‚µ‚Ä‚ ‚è‚Ü‚¹‚ñB
-ƒs[ƒ^[Eƒ‰[ƒ\ƒ“iƒAƒ}ƒ]ƒ“”z‘—ƒeƒNƒmƒƒW[ •›‰ï’·): ƒAƒ}ƒ]ƒ“‚Ì‚¢‚½‚é‚Æ‚±‚ë‚ÅA‰½•S‚à‚Ìƒ`[ƒ€‚ªlH’m”\‚ÌƒvƒƒOƒ‰ƒ€‚Éæ‚è‘g‚ñ‚Å‚¢‚Ü‚·B‹@ŠBŠwK‚È‚Ç‚ÌlH’m”\‚ÍA„‚½‚¿‚ªí‚ÉŒÚ‹q‚É’ñ‹Ÿ‚µ‚½‚¢‚ÆŠè‚Á‚Ä‚¢‚éŠÈ’P‚³‚ğ„i‚µ‚Ä‚­‚ê‚Ü‚·B
+ï¼£ï¼®ï¼®è¨˜è€…: ã“ã®ãƒ¬ã‚¸ã®ãªã„åº—ã®è£å´ã«ã‚ã‚‹æŠ€è¡“ã¯ã€æ±ºã—ã¦å˜ç´”ãªã‚‚ã®ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ã‚¢ãƒã‚¾ãƒ³ãƒ»ã‚´ãƒ¼åº—ã§ã¯äººå·¥çŸ¥èƒ½ã‚’ä½¿ã„ã€ã‚ãªãŸãŒä½•ã‚’å–ã‚ã†ã¨æ£šã«æ‰‹ã‚’ä¼¸ã°ã—ãŸã‹ã‚’ç›£è¦–ã—ã€ã‚ãªãŸãŒæŒã£ã¦å¤–ã«å‡ºãŸã‚‚ã®ã ã‘ã«å¯¾ã—ã¦ç¢ºå®Ÿã«æ”¯æ‰•ã„ã‚’è«‹æ±‚ã•ã‚Œã‚‹ã‚ˆã†ã«ã—ã¾ã™ã€‚ ã‚¢ãƒã‚¾ãƒ³ãƒ»ã‚´ãƒ¼ã®åº—èˆ—ã¯ã€ã‚¢ãƒã‚¾ãƒ³ãŒAIã‚’ä½¿ã£ã¦ã„ã‚‹å”¯ä¸€ã®å ´æ‰€ã§ã¯æ±ºã—ã¦ã‚ã‚Šã¾ã›ã‚“ã€‚
+ãƒ”ãƒ¼ã‚¿ãƒ¼ãƒ»ãƒ©ãƒ¼ã‚½ãƒ³ï¼ˆã‚¢ãƒã‚¾ãƒ³é…é€ãƒ†ã‚¯ãƒãƒ­ã‚¸ãƒ¼ å‰¯ä¼šé•·): ã‚¢ãƒã‚¾ãƒ³ã®ã„ãŸã‚‹ã¨ã“ã‚ã§ã€ä½•ç™¾ã‚‚ã®ãƒãƒ¼ãƒ ãŒäººå·¥çŸ¥èƒ½ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã«å–ã‚Šçµ„ã‚“ã§ã„ã¾ã™ã€‚æ©Ÿæ¢°å­¦ç¿’ãªã©ã®äººå·¥çŸ¥èƒ½ã¯ã€ç§ãŸã¡ãŒå¸¸ã«é¡§å®¢ã«æä¾›ã—ãŸã„ã¨é¡˜ã£ã¦ã„ã‚‹ç°¡å˜ã•ã‚’æ¨é€²ã—ã¦ãã‚Œã¾ã™ã€‚
 
 
-CNN REPORTER: Whether it's fulfilling orders or delivering packages, those teams are working constantly to improve the customerfs experience. Inside Amazonfs warehouses, AI is hard at work.  These are Amazon robotics drive units.
+CNN REPORTER: Whether it's fulfilling orders or delivering packages, those teams are working constantly to improve the customerâ€™s experience. Inside Amazonâ€™s warehouses, AI is hard at work.  These are Amazon robotics drive units.
 BELINDA WORLEY (SR. PRODUCT MANAGER, AMAZON ROBOTICS): Once a customer actually purchases an item either on their mobile app or on their computer or laptop, the system identifies the pod where the item is actually located in the field, and the bot maps out the most efficient way, through using machine learning, to get that pod which has that item that that customer purchased to the associate.
 
-‚b‚m‚m‹LÒ: ‚»‚ê‚ª’•¶‚ğˆ—‚·‚é‚Ì‚Å‚ ‚êA‰×•¨‚ğ”z‘—‚·‚é‚Ì‚Å‚ ‚êA‚±‚ê‚ç‚Ìƒ`[ƒ€‚ÍŒÚ‹q‘ÌŒ±‚ğŒüã‚³‚¹‚é‚½‚ß‚Éí‚Éæ‚è‘g‚ñ‚Å‚¢‚Ü‚·BƒAƒ}ƒ]ƒ“‚Ì‘qŒÉ‚Ì’†‚Å‚ÍAAI‚ª‚¹‚Á‚¹‚Æ“­‚¢‚Ä‚¢‚Ü‚·B‚±‚ê‚ç‚Íƒƒ{ƒbƒgHŠw‚Ì‹ì“®‘•’u‚Å‚·B
-ƒuƒŒƒ“ƒ_Eƒ[ƒŠ[ iƒAƒ}ƒ]ƒ“ƒƒ{ƒbƒgHŠw ã‹‰»•iŠÇ—Òj:@‚¢‚Á‚½‚ñŒÚ‹q‚ª©•ª‚Ìƒ‚ƒoƒCƒ‹ƒAƒvƒŠ‚âƒm[ƒgƒpƒ\ƒRƒ“‚ÅÀÛ‚É•i•¨‚ğw“ü‚·‚é‚ÆAƒVƒXƒeƒ€‚ª‚»‚Ì—Ìˆæ“à‚Å•i•¨‚ªÀÛ‚É’u‚©‚ê‚Ä‚¢‚é’I‚ğŠ„‚èo‚µA‚»‚ÌŒÚ‹q‚ªw“ü‚µ‚½•i•¨‚ª“ü‚Á‚Ä‚¢‚é’I‚ğ“¯—»‚É“Í‚¯‚éÅ‚àŒø—¦“I‚È•û–@‚ğAƒ{ƒbƒg‚ª‹@ŠBŠwK‚ğ’Ê‚¶‚Äãk–§‚ÉŒv‰æ‚µ‚Ü‚·B
+ï¼£ï¼®ï¼®è¨˜è€…: ãã‚ŒãŒæ³¨æ–‡ã‚’å‡¦ç†ã™ã‚‹ã®ã§ã‚ã‚Œã€è·ç‰©ã‚’é…é€ã™ã‚‹ã®ã§ã‚ã‚Œã€ã“ã‚Œã‚‰ã®ãƒãƒ¼ãƒ ã¯é¡§å®¢ä½“é¨“ã‚’å‘ä¸Šã•ã›ã‚‹ãŸã‚ã«å¸¸ã«å–ã‚Šçµ„ã‚“ã§ã„ã¾ã™ã€‚ã‚¢ãƒã‚¾ãƒ³ã®å€‰åº«ã®ä¸­ã§ã¯ã€AIãŒã›ã£ã›ã¨åƒã„ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰ã¯ãƒ­ãƒœãƒƒãƒˆå·¥å­¦ã®é§†å‹•è£…ç½®ã§ã™ã€‚
+ãƒ–ãƒ¬ãƒ³ãƒ€ãƒ»ãƒ¯ãƒ¼ãƒªãƒ¼ ï¼ˆã‚¢ãƒã‚¾ãƒ³ãƒ­ãƒœãƒƒãƒˆå·¥å­¦ ä¸Šç´šè£½å“ç®¡ç†è€…ï¼‰:ã€€ã„ã£ãŸã‚“é¡§å®¢ãŒè‡ªåˆ†ã®ãƒ¢ãƒã‚¤ãƒ«ã‚¢ãƒ—ãƒªã‚„ãƒãƒ¼ãƒˆãƒ‘ã‚½ã‚³ãƒ³ã§å®Ÿéš›ã«å“ç‰©ã‚’è³¼å…¥ã™ã‚‹ã¨ã€ã‚·ã‚¹ãƒ†ãƒ ãŒãã®é ˜åŸŸå†…ã§å“ç‰©ãŒå®Ÿéš›ã«ç½®ã‹ã‚Œã¦ã„ã‚‹æ£šã‚’å‰²ã‚Šå‡ºã—ã€ãã®é¡§å®¢ãŒè³¼å…¥ã—ãŸå“ç‰©ãŒå…¥ã£ã¦ã„ã‚‹æ£šã‚’åŒåƒšã«å±Šã‘ã‚‹æœ€ã‚‚åŠ¹ç‡çš„ãªæ–¹æ³•ã‚’ã€ãƒœãƒƒãƒˆãŒæ©Ÿæ¢°å­¦ç¿’ã‚’é€šã˜ã¦ç·»å¯†ã«è¨ˆç”»ã—ã¾ã™ã€‚
 
 
 DEVELOPER OF ALEXA: Alexa, order dog biscuits.
 CNN REPORTER: And of course, the AI tool you're most familiar with is always learning new tricks.
-DEVELOPER OF ALEXA: Achieving what Alexa is right now is super hard challenge. Going from that to the future, I would like Alexa to respond to the c the c your mood, your sentiment, your feeling, as expressed in your speech. The one key advantage we have is we now have so much more data. So is it a big challenge? Yes. Are we up to that challenge? Heck, yes.
+DEVELOPER OF ALEXA: Achieving what Alexa is right now is super hard challenge. Going from that to the future, I would like Alexa to respond to the â€¦ the â€¦ your mood, your sentiment, your feeling, as expressed in your speech. The one key advantage we have is we now have so much more data. So is it a big challenge? Yes. Are we up to that challenge? Heck, yes.
 
-ƒAƒŒƒNƒT‚ÌŠJ”­Ò: ƒAƒŒƒNƒTAŒ¢—p‚ÌƒrƒXƒPƒbƒg‚ğ’•¶‚µ‚ÄB
-‚b‚m‚m‹LÒ:@‚»‚µ‚Ä‚à‚¿‚ë‚ñAÅ‚à‚æ‚­’m‚ç‚ê‚Ä‚¢‚éAI‚Ì“¹‹ï‚Íí‚ÉV‚µ‚¢‹Z‚ğg‚É‚Â‚¯‚Ä‚¢‚Ü‚·B
-ƒAƒŒƒNƒT‚ÌŠJ”­Ò:@Œ»İ‚ÌƒAƒŒƒNƒT‚ğÀŒ»‚·‚é‚Ì‚ÍA‚©‚È‚è‚Ì“ï‘è‚Å‚µ‚½B‚»‚±‚©‚ç«—ˆ‚ÉŒü‚¯‚ÄA„‚ÍƒAƒŒƒNƒT‚Écc‚ ‚È‚½‚Ì”­Œ¾‚Å¦‚³‚ê‚½A‚ ‚È‚½‚Ì‹C•ªAŠ´îA‹C‚¿‚É‘Î‰‚µ‚Ä‚Ù‚µ‚¢‚Æl‚¦‚Ä‚¢‚Ü‚·B„‚½‚¿‚Ìd—v‚È‹­‚İ‚Ì‚Ğ‚Æ‚Â‚ÍA¡‚Å‚Í‚Ä‚éî•ñ—Ê‚ª”š”­“I‚É‘‚¦‚Ä‚¢‚é‚±‚Æ‚Å‚·B‚»‚ê‚ÅA‚»‚ê‚Í‘å‚«‚È’§í‚É‚È‚é‚Ì‚©B‚Í‚¢B„‚½‚¿‚Í‚»‚ê‚É’§í‚Å‚«‚é‚Ì‚©B‚à‚¿‚ë‚ñ‚Å‚·B
+ã‚¢ãƒ¬ã‚¯ã‚µã®é–‹ç™ºè€…: ã‚¢ãƒ¬ã‚¯ã‚µã€çŠ¬ç”¨ã®ãƒ“ã‚¹ã‚±ãƒƒãƒˆã‚’æ³¨æ–‡ã—ã¦ã€‚
+ï¼£ï¼®ï¼®è¨˜è€…:ã€€ãã—ã¦ã‚‚ã¡ã‚ã‚“ã€æœ€ã‚‚ã‚ˆãçŸ¥ã‚‰ã‚Œã¦ã„ã‚‹AIã®é“å…·ã¯å¸¸ã«æ–°ã—ã„æŠ€ã‚’èº«ã«ã¤ã‘ã¦ã„ã¾ã™ã€‚
+ã‚¢ãƒ¬ã‚¯ã‚µã®é–‹ç™ºè€…:ã€€ç¾åœ¨ã®ã‚¢ãƒ¬ã‚¯ã‚µã‚’å®Ÿç¾ã™ã‚‹ã®ã¯ã€ã‹ãªã‚Šã®é›£é¡Œã§ã—ãŸã€‚ãã“ã‹ã‚‰å°†æ¥ã«å‘ã‘ã¦ã€ç§ã¯ã‚¢ãƒ¬ã‚¯ã‚µã«â€¦â€¦ã‚ãªãŸã®ç™ºè¨€ã§ç¤ºã•ã‚ŒãŸã€ã‚ãªãŸã®æ°—åˆ†ã€æ„Ÿæƒ…ã€æ°—æŒã¡ã«å¯¾å¿œã—ã¦ã»ã—ã„ã¨è€ƒãˆã¦ã„ã¾ã™ã€‚ç§ãŸã¡ã®é‡è¦ãªå¼·ã¿ã®ã²ã¨ã¤ã¯ã€ä»Šã§ã¯æŒã¦ã‚‹æƒ…å ±é‡ãŒçˆ†ç™ºçš„ã«å¢—ãˆã¦ã„ã‚‹ã“ã¨ã§ã™ã€‚ãã‚Œã§ã€ãã‚Œã¯å¤§ããªæŒ‘æˆ¦ã«ãªã‚‹ã®ã‹ã€‚ã¯ã„ã€‚ç§ãŸã¡ã¯ãã‚Œã«æŒ‘æˆ¦ã§ãã‚‹ã®ã‹ã€‚ã‚‚ã¡ã‚ã‚“ã§ã™ã€‚

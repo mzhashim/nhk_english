@@ -1,41 +1,41 @@
 
 p40
-AZUZ: For decades, DNA has been used in criminal justice to identify suspects or clear people whofve been falsely accused. 
+AZUZ: For decades, DNA has been used in criminal justice to identify suspects or clear people whoâ€™ve been falsely accused. 
 Now, a type of technology called DNA phenotyping could take crime scene analysis to another level.
 In DNA profiling, which investigators have used for years, they try to match DNA from a crime scene to records they already have in their system. 
-With the new technology, genetic information doesnft need to be matched or compared.
+With the new technology, genetic information doesnâ€™t need to be matched or compared.
 
-ƒAƒY[ƒY@‰½\”N‚à‚ÌŠÔADNA‚ÍŒY–i–@‚É‚¨‚¢‚Ä—e‹^Ò‚ğ“Á’è‚µ‚½‚èA•s“–‚É”­‚³‚ê‚Ä‚«‚½l‚Ì–³À‚ğØ–¾‚·‚é‚½‚ß‚Ég‚í‚ê‚Ä‚«‚Ü‚µ‚½B
-¡ADNA •\Œ»Œ^ŒŸ¸‚ÆŒÄ‚Î‚ê‚éƒ^ƒCƒv‚Ì‹Zp‚É‚æ‚Á‚ÄA”ÆßŒ»ê‚Ì•ªÍ‚ªŸ‚Ì’iŠK‚ÉˆÚ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-’·”N‘{¸Š¯‚ªs‚Á‚Ä‚«‚½DNA ŠÓ’è‚Å‚ÍA”ÆßŒ»ê‚Éc‚³‚ê‚½DNA‚ÆA©•ª‚½‚¿‚ÌƒVƒXƒeƒ€‚É‚·‚Å‚É‚ ‚é”Æß—ğ‚Æ‚ÌÆ‡‚ğ‚İ‚Ü‚·B
-‚±‚ÌV‚µ‚¢‹Zp‚Å‚ÍAˆâ“`î•ñ‚ğÆ‡‚µ‚½‚è”äŠr‚µ‚½‚è‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
+ã‚¢ã‚ºãƒ¼ã‚ºã€€ä½•åå¹´ã‚‚ã®é–“ã€DNAã¯åˆ‘äº‹å¸æ³•ã«ãŠã„ã¦å®¹ç–‘è€…ã‚’ç‰¹å®šã—ãŸã‚Šã€ä¸å½“ã«å‘Šç™ºã•ã‚Œã¦ããŸäººã®ç„¡å®Ÿã‚’è¨¼æ˜ã™ã‚‹ãŸã‚ã«ä½¿ã‚ã‚Œã¦ãã¾ã—ãŸã€‚
+ä»Šã€DNA è¡¨ç¾å‹æ¤œæŸ»ã¨å‘¼ã°ã‚Œã‚‹ã‚¿ã‚¤ãƒ—ã®æŠ€è¡“ã«ã‚ˆã£ã¦ã€çŠ¯ç½ªç¾å ´ã®åˆ†æãŒæ¬¡ã®æ®µéšã«ç§»ã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
+é•·å¹´æœæŸ»å®˜ãŒè¡Œã£ã¦ããŸDNA é‘‘å®šã§ã¯ã€çŠ¯ç½ªç¾å ´ã«æ®‹ã•ã‚ŒãŸDNAã¨ã€è‡ªåˆ†ãŸã¡ã®ã‚·ã‚¹ãƒ†ãƒ ã«ã™ã§ã«ã‚ã‚‹çŠ¯ç½ªæ­´ã¨ã®ç…§åˆã‚’è©¦ã¿ã¾ã™ã€‚
+ã“ã®æ–°ã—ã„æŠ€è¡“ã§ã¯ã€éºä¼æƒ…å ±ã‚’ç…§åˆã—ãŸã‚Šæ¯”è¼ƒã—ãŸã‚Šã™ã‚‹å¿…è¦ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 
 CNN REPORTER: The technology is called DNA phenotyping, developed by Parabon NanoLabs. 
 From just a small sample of DNA, they can create a composite image of what someone could look like.
 Parabon started to offer forensic services to law enforcement in 2015. 
-Since then, theyfve assisted in over 40 cases.
-Our DNA carries a specific instruction set for an individualfs physical characteristics. 
+Since then, theyâ€™ve assisted in over 40 cases.
+Our DNA carries a specific instruction set for an individualâ€™s physical characteristics. 
 With only a small sample, Parabon can pull from tens of thousands of genetic variants to predict what a person looks like.
 
-‚»‚Ì‹Zp‚ÍDNA•\Œ»Œ^ŒŸ¸‚ÆŒÄ‚Î‚êAParabon NanoLabsĞ‚É‚æ‚Á‚ÄŠJ”­‚³‚ê‚Ü‚µ‚½B
-”Ş‚ç‚ÍA‚Ù‚ñ‚Ì‚í‚¸‚©‚ÈDNA‚ÌƒTƒ“ƒvƒ‹‚©‚çA‚ ‚él•¨‚Ì‚¿“¾‚éŠOŒ©‚Ì‡¬‰æ‘œ‚ğì‚èã‚°‚é‚±‚Æ‚ª‚Å‚«‚é‚Ì‚Å‚·B
-ParabonĞ‚ª–@ˆãŠw‚ÌƒT[ƒrƒX‚ğŒx@‚É’ñ‹Ÿ‚µn‚ß‚½‚Ì‚Í2015 ”N‚Ì‚±‚Æ‚Å‚·B
-‚»‚êˆÈ—ˆA”Ş‚ç‚Í40 ˆÈã‚à‚Ì–Œ‚É‹¦—Í‚µ‚Ä‚«‚Ü‚µ‚½B
-„‚½‚¿‚ÌDNA‚ÍAŒÂX‚Ìg‘Ì“Á’¥‚Ì‚½‚ß‚ÌŒÂ•Ê‚Ìw—ß‚ğ‚Á‚Ä‚¢‚Ü‚·B
-‚í‚¸‚©‚ÈƒTƒ“ƒvƒ‹‚¾‚¯‚ÅAParabon Ğ‚Í‰½–œ‚à‚Ìˆâ“`q•ÏˆÙ‘Ì‚©‚çŠ„‚èo‚µ‚ÄA‚ ‚él•¨‚ÌŠOŒ©‚ğ—\‘ª‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚Ì‚Å‚·B
+ãã®æŠ€è¡“ã¯DNAè¡¨ç¾å‹æ¤œæŸ»ã¨å‘¼ã°ã‚Œã€Parabon NanoLabsç¤¾ã«ã‚ˆã£ã¦é–‹ç™ºã•ã‚Œã¾ã—ãŸã€‚
+å½¼ã‚‰ã¯ã€ã»ã‚“ã®ã‚ãšã‹ãªDNAã®ã‚µãƒ³ãƒ—ãƒ«ã‹ã‚‰ã€ã‚ã‚‹äººç‰©ã®æŒã¡å¾—ã‚‹å¤–è¦‹ã®åˆæˆç”»åƒã‚’ä½œã‚Šä¸Šã’ã‚‹ã“ã¨ãŒã§ãã‚‹ã®ã§ã™ã€‚
+Parabonç¤¾ãŒæ³•åŒ»å­¦ã®ã‚µãƒ¼ãƒ“ã‚¹ã‚’è­¦å¯Ÿã«æä¾›ã—å§‹ã‚ãŸã®ã¯2015 å¹´ã®ã“ã¨ã§ã™ã€‚
+ãã‚Œä»¥æ¥ã€å½¼ã‚‰ã¯40 ä»¥ä¸Šã‚‚ã®äº‹ä»¶ã«å”åŠ›ã—ã¦ãã¾ã—ãŸã€‚
+ç§ãŸã¡ã®DNAã¯ã€å€‹ã€…ã®èº«ä½“ç‰¹å¾´ã®ãŸã‚ã®å€‹åˆ¥ã®æŒ‡ä»¤ã‚’æŒã£ã¦ã„ã¾ã™ã€‚
+ã‚ãšã‹ãªã‚µãƒ³ãƒ—ãƒ«ã ã‘ã§ã€Parabon ç¤¾ã¯ä½•ä¸‡ã‚‚ã®éºä¼å­å¤‰ç•°ä½“ã‹ã‚‰å‰²ã‚Šå‡ºã—ã¦ã€ã‚ã‚‹äººç‰©ã®å¤–è¦‹ã‚’äºˆæ¸¬ã™ã‚‹ã“ã¨ãŒã§ãã‚‹ã®ã§ã™ã€‚
 
-ELLEN GREYTAKiDIR. OF BIOINFORMATICS, PARABON NANOLABSj:
-So basically, wefre predicting where the face falls on different facial dimensions, in what we call face space.
+ELLEN GREYTAKï¼ˆDIR. OF BIOINFORMATICS, PARABON NANOLABSï¼‰:
+So basically, weâ€™re predicting where the face falls on different facial dimensions, in what we call face space.
 CNN REPORTER: The service costs about $3,000 but the results can mean authorities spend less time and manpower to solve a case. 
 The composites do have limitations though. 
-For instance, DNA doesnft reveal a personfs age. So to compensate, Parabon estimates what the person would look like at presentday based on how long ago the crime was committed, 
+For instance, DNA doesnâ€™t reveal a personâ€™s age. So to compensate, Parabon estimates what the person would look like at presentday based on how long ago the crime was committed, 
 and it is simply a guide. The phenotype alone cannot lead to a conviction.
 
-ƒGƒŒƒ“EƒOƒŒƒCƒ^ƒNiParabon NanoLabsĞ¶•¨î•ñŠwæ’÷–ğj@
-‚Å‚·‚©‚çA „‚½‚¿‚ÍŠî–{“I‚ÉA‚»‚ÌŠç‚ªA„‚½‚¿‚ªŠç‹óŠÔ‚ÆŒÄ‚ñ‚Å‚¢‚é‚à‚Ì‚ÅAˆÙ‚È‚éŠç–Ê¡–@‚Ì‚Ç‚±‚Éû‚Ü‚é‚©‚ğ—\‘ª‚µ‚Ü‚·B
-CNN‹LÒ@‚±‚ÌƒT[ƒrƒX‚Í3000ƒhƒ‹‚Ù‚Ç‚©‚©‚è‚Ü‚·‚ªA‚»‚ÌŒ‹‰Ê‚ÍA“–‹Ç‚ª–Œ‚ğ‰ğŒˆ‚·‚é‚½‚ß‚Ég‚¤ŠÔ‚Æl“I‘Œ¹‚ğŒ¸‚ç‚¹‚é‚©‚à‚µ‚ê‚È‚¢‚±‚Æ‚ğˆÓ–¡‚µ‚Ü‚·B
-‚µ‚©‚µ‚È‚ª‚çA‡¬Ê^‚É‚àŒÀŠE‚Í‚ ‚è‚Ü‚·B
-—á‚¦‚ÎADNA‚©‚çlŠÔ
-‚Ì”N—î‚ğ–¾‚ç‚©‚É‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB
-‚Å‚·‚©‚çA‚»‚ê‚ğ•âŠ®‚·‚é‚½‚ß‚ÉAParabonĞ‚Í‚»‚Ìl•¨‚ªŒ»“_‚Å‚Ç‚Ì‚æ‚¤‚ÈŠOŒ©‚Å‚ ‚é‚©‚ğ„‘ª‚µ‚Ü‚·„Ÿ
-‚±‚ê‚Í”Æß‚ª‚Ç‚ê‚®‚ç‚¢‘O‚É‹N‚«‚½‚©‚ÉŠî‚Ã‚¢‚Äs‚í‚êA’P‚È‚é–ÚˆÀ‚É‚·‚¬‚Ü‚¹‚ñB•\Œ»Œ^‚¾‚¯‚Å‚Í—Lß”»Œˆ‚É‚Í‚Â‚È‚ª‚è‚Ü‚¹‚ñB
+ã‚¨ãƒ¬ãƒ³ãƒ»ã‚°ãƒ¬ã‚¤ã‚¿ã‚¯ï¼ˆParabon NanoLabsç¤¾ç”Ÿç‰©æƒ…å ±å­¦å–ç· å½¹ï¼‰ã€€
+ã§ã™ã‹ã‚‰ã€ ç§ãŸã¡ã¯åŸºæœ¬çš„ã«ã€ãã®é¡”ãŒã€ç§ãŸã¡ãŒé¡”ç©ºé–“ã¨å‘¼ã‚“ã§ã„ã‚‹ã‚‚ã®ã§ã€ç•°ãªã‚‹é¡”é¢å¯¸æ³•ã®ã©ã“ã«åã¾ã‚‹ã‹ã‚’äºˆæ¸¬ã—ã¾ã™ã€‚
+CNNè¨˜è€…ã€€ã“ã®ã‚µãƒ¼ãƒ“ã‚¹ã¯3000ãƒ‰ãƒ«ã»ã©ã‹ã‹ã‚Šã¾ã™ãŒã€ãã®çµæœã¯ã€å½“å±€ãŒäº‹ä»¶ã‚’è§£æ±ºã™ã‚‹ãŸã‚ã«ä½¿ã†æ™‚é–“ã¨äººçš„è³‡æºã‚’æ¸›ã‚‰ã›ã‚‹ã‹ã‚‚ã—ã‚Œãªã„ã“ã¨ã‚’æ„å‘³ã—ã¾ã™ã€‚
+ã—ã‹ã—ãªãŒã‚‰ã€åˆæˆå†™çœŸã«ã‚‚é™ç•Œã¯ã‚ã‚Šã¾ã™ã€‚
+ä¾‹ãˆã°ã€DNAã‹ã‚‰äººé–“
+ã®å¹´é½¢ã‚’æ˜ã‚‰ã‹ã«ã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚
+ã§ã™ã‹ã‚‰ã€ãã‚Œã‚’è£œå®Œã™ã‚‹ãŸã‚ã«ã€Parabonç¤¾ã¯ãã®äººç‰©ãŒç¾æ™‚ç‚¹ã§ã©ã®ã‚ˆã†ãªå¤–è¦‹ã§ã‚ã‚‹ã‹ã‚’æ¨æ¸¬ã—ã¾ã™â”€
+ã“ã‚Œã¯çŠ¯ç½ªãŒã©ã‚Œãã‚‰ã„å‰ã«èµ·ããŸã‹ã«åŸºã¥ã„ã¦è¡Œã‚ã‚Œã€å˜ãªã‚‹ç›®å®‰ã«ã™ãã¾ã›ã‚“ã€‚è¡¨ç¾å‹ã ã‘ã§ã¯æœ‰ç½ªåˆ¤æ±ºã«ã¯ã¤ãªãŒã‚Šã¾ã›ã‚“ã€‚
