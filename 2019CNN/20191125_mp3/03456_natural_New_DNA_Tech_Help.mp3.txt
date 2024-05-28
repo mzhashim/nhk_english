@@ -1,0 +1,41 @@
+
+p40
+AZUZ: For decades, DNA has been used in criminal justice to identify suspects or clear people who’ve been falsely accused. 
+Now, a type of technology called DNA phenotyping could take crime scene analysis to another level.
+In DNA profiling, which investigators have used for years, they try to match DNA from a crime scene to records they already have in their system. 
+With the new technology, genetic information doesn’t need to be matched or compared.
+
+アズーズ　何十年もの間、DNAは刑事司法において容疑者を特定したり、不当に告発されてきた人の無実を証明するために使われてきました。
+今、DNA 表現型検査と呼ばれるタイプの技術によって、犯罪現場の分析が次の段階に移るかもしれません。
+長年捜査官が行ってきたDNA 鑑定では、犯罪現場に残されたDNAと、自分たちのシステムにすでにある犯罪歴との照合を試みます。
+この新しい技術では、遺伝情報を照合したり比較したりする必要はありません。
+
+CNN REPORTER: The technology is called DNA phenotyping, developed by Parabon NanoLabs. 
+From just a small sample of DNA, they can create a composite image of what someone could look like.
+Parabon started to offer forensic services to law enforcement in 2015. 
+Since then, they’ve assisted in over 40 cases.
+Our DNA carries a specific instruction set for an individual’s physical characteristics. 
+With only a small sample, Parabon can pull from tens of thousands of genetic variants to predict what a person looks like.
+
+その技術はDNA表現型検査と呼ばれ、Parabon NanoLabs社によって開発されました。
+彼らは、ほんのわずかなDNAのサンプルから、ある人物の持ち得る外見の合成画像を作り上げることができるのです。
+Parabon社が法医学のサービスを警察に提供し始めたのは2015 年のことです。
+それ以来、彼らは40 以上もの事件に協力してきました。
+私たちのDNAは、個々の身体特徴のための個別の指令を持っています。
+わずかなサンプルだけで、Parabon 社は何万もの遺伝子変異体から割り出して、ある人物の外見を予測することができるのです。
+
+ELLEN GREYTAK（DIR. OF BIOINFORMATICS, PARABON NANOLABS）:
+So basically, we’re predicting where the face falls on different facial dimensions, in what we call face space.
+CNN REPORTER: The service costs about $3,000 but the results can mean authorities spend less time and manpower to solve a case. 
+The composites do have limitations though. 
+For instance, DNA doesn’t reveal a person’s age. So to compensate, Parabon estimates what the person would look like at presentday based on how long ago the crime was committed, 
+and it is simply a guide. The phenotype alone cannot lead to a conviction.
+
+エレン・グレイタク（Parabon NanoLabs社生物情報学取締役）　
+ですから、 私たちは基本的に、その顔が、私たちが顔空間と呼んでいるもので、異なる顔面寸法のどこに収まるかを予測します。
+CNN記者　このサービスは3000ドルほどかかりますが、その結果は、当局が事件を解決するために使う時間と人的資源を減らせるかもしれないことを意味します。
+しかしながら、合成写真にも限界はあります。
+例えば、DNAから人間
+の年齢を明らかにすることはできません。
+ですから、それを補完するために、Parabon社はその人物が現時点でどのような外見であるかを推測します─
+これは犯罪がどれぐらい前に起きたかに基づいて行われ、単なる目安にすぎません。表現型だけでは有罪判決にはつながりません。
