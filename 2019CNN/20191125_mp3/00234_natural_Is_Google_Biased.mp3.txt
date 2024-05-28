@@ -3,23 +3,23 @@ AZUZ: We start today with one of the big questions that faced a technology execu
 Is Google biased against politically conservative users and in favor of politically liberal ones?
 That's something that a number of Republicans, including U.S. 
 President Donald Trump, have accused Google of being, and Representative Lamar Smith, a Republican from Texas, said this kind of bias was, quote, "programmed into the company's culture."
-The company�fs CEO, Sundar Pichai, says Google�fs operations are nonpartisan.
+The company’s CEO, Sundar Pichai, says Google’s operations are nonpartisan.
 
-�A�Y�[�Y: �����ŏ��̘b��́A����A�M�c���IT���������ʂ����傫�Ȗ��̂ЂƂɂ��Ăł��B
-�O�[�O���͐����I�ێ�̗��p�҂�s���ɕs���Ɉ����A�����I�Ƀ��x�����ȗ��p�҂��D�ӓI�Ɉ����Ă���̂ł��傤���B
-����̓g�����v�đ哝�̂��܂ޑ����̋��a�}�����O�[�O���̂�����ɑ΂��Ĕ��Ă������Ƃł��B
-�����āA�e�L�T�X�B�̋��a�}�c���̃��}�[�E�X�~�X���͏q�ׂ܂����B����������ނ̕Ό��́A�u���̉�Ђ̕����ɑg�ݍ��܂�Ă�����̂��v�ƁB
-�O�[�O���Ђ̍ō��o�c�ӔC�҂ł���T���_�[�E�s�`���C���́A���Ђ̎��Ƃ͌������ƌ����܂��B
+アズーズ: 今日最初の話題は、昨日連邦議会でIT幹部が直面した大きな問題のひとつについてです。
+グーグルは政治的保守の利用者を不当に不利に扱い、政治的にリベラルな利用者を好意的に扱っているのでしょうか。
+これはトランプ米大統領を含む多くの共和党員がグーグルのあり方に対して非難していたことです。
+そして、テキサス州の共和党議員のラマー・スミス氏は述べました。こうした種類の偏向は、「この会社の文化に組み込まれているものだ」と。
+グーグル社の最高経営責任者であるサンダー・ピチャイ氏は、同社の事業は公平だと言います。
 
-SUNDAR PICHAI �iCEO OF GOOGLE LLC�j: I lead this company without political bias and work to ensure that our products continue to operate that way. 
+SUNDAR PICHAI （CEO OF GOOGLE LLC）: I lead this company without political bias and work to ensure that our products continue to operate that way. 
 To do otherwise would be against our core principles and our business interests.
 AZUZ: Google isn't the only technology company that's been accused of bias. 
 The House Judiciary Committee has had other hearings this year on the subject, with the CEO of Twitter discussing the issue in September.
 
-�T���_�[�E�s�`���C�i�O�[�O���� �ō��o�c�ӔC�ҁj�@���͐����I�ȕΌ��������ƂȂ����̉�Ђ𓱂��Ă���A���Ђ̐��i���m���ɂ��̂悤�ɉ^�p���ꑱ����悤�ɓw�͂��Ă��܂��B
-�������Ȃ���΁A�����̊�{��������ю��Ɨ��v�ɔ����Ă��܂��܂��B
-�A�Y�[�Y:�@�������ɂ��Ĕ���Ă���IT��Ƃ̓O�[�O�������ł͂���܂���B
-���@�i�@�ψ���͍��N�A���̃e�[�}�ɂ��ĕʂ̌�������������J���Ă���A9���ɂ̓c�C�b�^�[�Ђ̍ō��o�c�ӔC�҂����̖��ɂ��Đ������Ă��܂��B
+サンダー・ピチャイ（グーグル社 最高経営責任者）　私は政治的な偏向を持つことなくこの会社を導いており、弊社の製品が確実にそのように運用され続けるように努力しています。
+そうしなければ、われわれの基本原則および事業利益に反してしまいます。
+アズーズ:　公平性について非難されているIT企業はグーグルだけではありません。
+下院司法委員会は今年、このテーマについて別の公聴会をいくつか開いており、9月にはツイッター社の最高経営責任者がこの問題について説明しています。
 
 Yesterday's event wasn't just about bias accusations, though. 
 Lawmakers asked Pichai about how much information Google collects from its users, particularly on its Android operating system, which can be found on many smartphones. 
@@ -27,11 +27,11 @@ The executive responded that Google has ways users can limit the info they share
 There were also questions about a rumored Google launch in China. 
 That country's communist government censors the media and human rights advocates are concerned that China could use a Google-type search engine to spy on people.
 
-�������Ȃ���A����̏o�����͌������ɂ��Ă̔����ł͂���܂���ł����B
-�c�������̓s�`���C���ɁA�O�[�O�������p�҂���ǂꂭ�炢�̗ʂ̏����W�߂Ă���̂������˂܂����B
-�Ƃ��ɑ����̃X�}�[�g�t�H���ɂ݂��铯�Ђ̃A���h���C�h�̃I�y���[�e�B���O�E�V�X�e���ŁB
-���̌o�c�����́A�O�[�O���ɂ͗��p�҂����ЂƋ��L������𐧌�������@������Ɖ����܂����B
-�܂��A�O�[�O���������ɐi�o����Ƃ������킳���c��ɏ��܂����B
-�����̋��Y�����̓��f�B�A�����{���Ă���A�l���i��҂����͒������O�[�O���̂悤�Ȍ����G���W�����g���Đl�X���Ď����邩������Ȃ��ƗJ�����Ă���̂ł��B
+しかしながら、昨日の出来事は公平性についての非難だけではありませんでした。
+議員たちはピチャイ氏に、グーグルが利用者からどれくらいの量の情報を集めているのかたずねました。
+とくに多くのスマートフォンにみられる同社のアンドロイドのオペレーティング・システムで。
+この経営幹部は、グーグルには利用者が同社と共有する情報を制限する方法があると応えました。
+また、グーグルが中国に進出するといううわさも議題に上りました。
+同国の共産政権はメディアを検閲しており、人権擁護者たちは中国がグーグルのような検索エンジンを使って人々を監視するかもしれないと憂慮しているのです。
 
 
