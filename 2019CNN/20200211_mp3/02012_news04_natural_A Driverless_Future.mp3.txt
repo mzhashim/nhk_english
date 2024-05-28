@@ -1,0 +1,24 @@
+
+CNN REPORTER: I spent the past year traveling the country, talking to entrepreneurs, engineers and test drivers who are building the cars of tomorrow. And when they imagine the future, driving a car isn’t part of it. They envision roads full of cars driven by machines, where traffic jams are no more, where the death rate by car accidents drops to zero, the end of car ownership, as we know it, even to the point of human driving one day becoming illegal. I asked them all the same thing: What will the future look like, and what will it take to get there? What I found was really exciting, but also a bit shocking.
+ＣＮＮ記者:　私は昨年、国内を旅して過ごし、未来の車を作っている企業家や技術者、テストドライバーたちの話を聞いてきました。そして彼らが未来を想像するとき、車を運転することはそこに含まれていません。彼らが思い描くのは、機械によって運転される車があふれる道路で、そこにはもはや交通渋滞などなく、自動車事故による死亡率はゼロまで下がっています。われわれが知っている、車を所有することの終わりです。いつか人間による車の運転が違法にすらなるところまで。私は彼ら全員に同じ質問をしました。未来はどのような姿で、そこにたどり着くためには何が必要なのか。分かったことはとてもわくわくすると同時に、ちょっと衝撃的でもありました。
+
+
+GABE KLEIN (EXPERT ON CITY PLANNING): We will look back and say, "Wow, people owned cars to get from this point to that point."
+CNN REPORTER: Eliminating car ownership would drastically change the way we shape our cities.
+KLEIN: You don’t need cars on … on neighborhood streets anymore. You just need them on the perimeter of your neighborhood.
+CNN REPORTER: Porsche knows that driverless technology's around the corner, but they still want people to love driving, even if they do less of it on public roads.
+
+ゲイブ・クライン(都市計画の専門家): 私たちは過去を振り返ってこう言うでしょう。「わあ！ ある場所から別の場所に移動するために、 人々は車を所有していたんだ」、 と。
+ＣＮＮ記者: 車の所有をなくすことで、私たちが都市を形づくる方法も劇的に変わるでしょう。
+クライン: 近所の通りに、車はもはや必要なくなります。必要なのは、地域を囲む境界線においてのみです。
+ＣＮＮ記者: ポルシェは自動運転技術がすぐそこまで来ていることを知っていますが、彼らはそれでも人々に運転を楽しんでほしいと考えています。たとえ、それを公道でやることが減ったとしても。
+
+
+All right, let’s get back to the real world. The rise of carsharing services has already made people accustomed to the idea of not owning a car. 
+Today, human drivers pick us up when we use Uber or Lyft, but that’s not going to last. 
+The ripple effect of automation on our cities will be felt beyond just cars. / Drones will roam the skies making deliveries, and robots, like this one already in Washington, D.C., may bring food orders to your door very soon. All of these changes won’t come easy. / Perhaps the biggest fear: What will happen when all these robots get better at our jobs than we are?  Will they replace us?
+
+さて、現実の世界に戻りましょう。カーシェアリングサービスの増加によって、人々はすでに車を所有しないという考えに慣れました。
+今日、ウーバーやリフトを使えば、人間のドライバーが私たちを乗せてくれますが、それは持続しないでしょう。
+自動化が私たちの都市にもたらす波及効果は、単に車を超えたところでも感じられるでしょう。ドローンは配達のために空を飛びまわり、すでにワシントンD.C.にあるこのようなロボットが、近い将来自宅まで食べ物の注文を届けてくれるかもしれません。これらの変化はどれも簡単には実現しません。最大の懸念は、これらのロボットが私たちより仕事ができるようになったらどうなるか、ということかもしれません。彼らは私たちに取って代わるのでしょうか。
+

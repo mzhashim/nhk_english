@@ -1,0 +1,21 @@
+CNN REPORTER: Nothing is simple about the technology behind this cashier-less store.  The Amazon Go market uses artificial intelligence to monitor what you’ve reached for on the shelf and to make sure you're charged for what you walked out with and nothing else. The Amazon Go store is by no means the only place where Amazon uses AI.
+PETER LARSEN (V P, AMAZON D ELIVERY T ECHNOLOGY): We’ve got hundreds of teams working on artificial intelligence programs across Amazon. Artificial intelligence like machine learning powers the simplicity that we always want to offer to our customers.
+
+ＣＮＮ記者: このレジのない店の裏側にある技術は、決して単純なものではありません。アマゾン・ゴー店では人工知能を使い、あなたが何を取ろうと棚に手を伸ばしたかを監視し、あなたが持って外に出たものだけに対して確実に支払いを請求されるようにします。 アマゾン・ゴーの店舗は、アマゾンがAIを使っている唯一の場所では決してありません。
+ピーター・ラーソン（アマゾン配送テクノロジー 副会長): アマゾンのいたるところで、何百ものチームが人工知能のプログラムに取り組んでいます。機械学習などの人工知能は、私たちが常に顧客に提供したいと願っている簡単さを推進してくれます。
+
+
+CNN REPORTER: Whether it's fulfilling orders or delivering packages, those teams are working constantly to improve the customer’s experience. Inside Amazon’s warehouses, AI is hard at work.  These are Amazon robotics drive units.
+BELINDA WORLEY (SR. PRODUCT MANAGER, AMAZON ROBOTICS): Once a customer actually purchases an item either on their mobile app or on their computer or laptop, the system identifies the pod where the item is actually located in the field, and the bot maps out the most efficient way, through using machine learning, to get that pod which has that item that that customer purchased to the associate.
+
+ＣＮＮ記者: それが注文を処理するのであれ、荷物を配送するのであれ、これらのチームは顧客体験を向上させるために常に取り組んでいます。アマゾンの倉庫の中では、AIがせっせと働いています。これらはロボット工学の駆動装置です。
+ブレンダ・ワーリー （アマゾンロボット工学 上級製品管理者）:　いったん顧客が自分のモバイルアプリやノートパソコンで実際に品物を購入すると、システムがその領域内で品物が実際に置かれている棚を割り出し、その顧客が購入した品物が入っている棚を同僚に届ける最も効率的な方法を、ボットが機械学習を通じて緻密に計画します。
+
+
+DEVELOPER OF ALEXA: Alexa, order dog biscuits.
+CNN REPORTER: And of course, the AI tool you're most familiar with is always learning new tricks.
+DEVELOPER OF ALEXA: Achieving what Alexa is right now is super hard challenge. Going from that to the future, I would like Alexa to respond to the … the … your mood, your sentiment, your feeling, as expressed in your speech. The one key advantage we have is we now have so much more data. So is it a big challenge? Yes. Are we up to that challenge? Heck, yes.
+
+アレクサの開発者: アレクサ、犬用のビスケットを注文して。
+ＣＮＮ記者:　そしてもちろん、最もよく知られているAIの道具は常に新しい技を身につけています。
+アレクサの開発者:　現在のアレクサを実現するのは、かなりの難題でした。そこから将来に向けて、私はアレクサに……あなたの発言で示された、あなたの気分、感情、気持ちに対応してほしいと考えています。私たちの重要な強みのひとつは、今では持てる情報量が爆発的に増えていることです。それで、それは大きな挑戦になるのか。はい。私たちはそれに挑戦できるのか。もちろんです。
