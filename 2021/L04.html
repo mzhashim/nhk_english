@@ -89,15 +89,6 @@
     </div>
 
     <div class="panel">
-        <button class="script-btn" onclick="toggleScript()">?? スクリプトを表示</button>
-        <div id="script-display"></div>
-        
-        <a href="https://gemini.google.com/app" target="_self" rel="noopener noreferrer" class="gemini-btn">
-            <span>?</span> Geminiに相談する
-        </a>
-    </div>
-
-    <div class="panel">
         <div class="label">Speed</div>
         <div class="control-group">
             <button class="speed-btn" onclick="setSpeed(0.2, this)">0.2x</button>
@@ -127,6 +118,15 @@
             <button onclick="resetLoop()">Reset</button>
         </div>
         <div id="status">A: -- | B: --</div>
+    </div>
+
+    <div class="panel">
+        <button class="script-btn" onclick="toggleScript()">?? スクリプトを表示</button>
+        <div id="script-display"></div>
+        
+        <a href="https://gemini.google.com/app" target="_self" rel="noopener noreferrer" class="gemini-btn">
+            <span>?</span> Geminiに相談する
+        </a>
     </div>
 
     <div class="panel">
@@ -183,7 +183,6 @@
         if(player) player.seekTo(player.getCurrentTime() + sec, true);
     };
 
-    // 字幕制御用関数
     window.setCaption = function(lang) {
         if (!player) return;
         if (lang === 'none') {
