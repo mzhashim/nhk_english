@@ -191,15 +191,28 @@
         if(player) player.seekTo(player.getCurrentTime() + sec, true);
     };
 
-    window.setCaption = function(lang) {
-        if (!player) return;
-        if (lang === 'none') {
-            player.unloadModule('captions');
-        } else {
-            player.loadModule('captions');
-            player.setOption('captions', 'track', {'languageCode': lang});
-        }
-    };
+
+
+window.setCaption = function(lang) {
+    if (!player) return;
+    if (lang === 'none') {
+        player.unloadModule('captions');
+    } else {
+        player.loadModule('captions');
+        
+        // 字幕の言語を設定
+        player.setOption('captions', 'track', {'languageCode': lang});
+        
+        // 字幕のフォントサイズを大きく設定 (0〜3の範囲、3が最大級)
+        // プレーヤーが小さい場合でも見やすくなるよう「3」に設定します
+        player.setOption('captions', 'fontSize', 3); 
+        
+        // 補足：表示位置などをリセットして見やすくする場合
+        player.setOption('captions', 'reload', true);
+    }
+};
+
+
 
     window.setPoint = function(type) {
         if(!player) return;
