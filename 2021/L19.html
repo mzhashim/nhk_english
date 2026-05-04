@@ -1,4 +1,4 @@
-
+ï»¿
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -30,7 +30,7 @@
 
 #player-container { 
     width: 100%; 
-    aspect-ratio: 32 / 9; /* 16/9 ‚Ìc‚ğ”¼•ª‚É */
+    aspect-ratio: 32 / 9; /* 16/9 ã®ç¸¦ã‚’åŠåˆ†ã« */
     background: #000; 
     border-radius: 12px; 
     overflow: hidden; 
@@ -121,8 +121,8 @@
 
         <div class="label">A-B Loop</div>
         <div class="control-group">
-            <button onclick="setPoint('A')">A“_</button>
-            <button onclick="setPoint('B')">B“_</button>
+            <button onclick="setPoint('A')">Aç‚¹</button>
+            <button onclick="setPoint('B')">Bç‚¹</button>
             <button id="btnLoop" class="loop-btn" onclick="toggleLoop()">LOOP: OFF</button>
             <button onclick="resetLoop()">Reset</button>
         </div>
@@ -130,21 +130,21 @@
     </div>
 
     <div class="panel">
-        <button class="script-btn" onclick="toggleScript()">ƒXƒNƒŠƒvƒg‚ğ•\¦</button>
+        <button class="script-btn" onclick="toggleScript()">ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’è¡¨ç¤º</button>
         <div id="script-display"></div>
         
 <a href="https://gemini.google.com/app/b5a9097fe818b869" target="_self" rel="noopener noreferrer" class="gemini-btn">
-    <span style="font-size: 1.2em; margin-right: 5px;">?</span> Gemini‚É‘Š’k‚·‚é
+    <span style="font-size: 1.2em; margin-right: 5px;">?</span> Geminiã«ç›¸è«‡ã™ã‚‹
 </a>
     </div>
 
     <div class="panel">
         <div class="label">Notes & AI Coach</div>
-        <textarea id="memo-area" placeholder="ƒƒ‚‚ğ“ü—Í..."></textarea>
+        <textarea id="memo-area" placeholder="ãƒ¡ãƒ¢ã‚’å…¥åŠ›..."></textarea>
         <div class="save-status" id="save-msg"></div>
         <div class="control-group">
-            <button style="background: var(--accent-blue);" onclick="saveMemo()">•Û‘¶</button>
-            <button style="background: #555;" onclick="clearMemo()">Á‹</button>
+            <button style="background: var(--accent-blue);" onclick="saveMemo()">ä¿å­˜</button>
+            <button style="background: #555;" onclick="clearMemo()">æ¶ˆå»</button>
         </div>
     </div>
 </div>
@@ -201,14 +201,14 @@ window.setCaption = function(lang) {
     } else {
         player.loadModule('captions');
         
-        // š–‹‚ÌŒ¾Œê‚ğİ’è
+        // å­—å¹•ã®è¨€èªã‚’è¨­å®š
         player.setOption('captions', 'track', {'languageCode': lang});
         
-        // š–‹‚ÌƒtƒHƒ“ƒgƒTƒCƒY‚ğ‘å‚«‚­İ’è (0?3‚Ì”ÍˆÍA3‚ªÅ‘å‹‰)
-        // ƒvƒŒ[ƒ„[‚ª¬‚³‚¢ê‡‚Å‚àŒ©‚â‚·‚­‚È‚é‚æ‚¤u3v‚Éİ’è‚µ‚Ü‚·
+        // å­—å¹•ã®ãƒ•ã‚©ãƒ³ãƒˆã‚µã‚¤ã‚ºã‚’å¤§ããè¨­å®š (0?3ã®ç¯„å›²ã€3ãŒæœ€å¤§ç´š)
+        // ãƒ—ãƒ¬ãƒ¼ãƒ¤ãƒ¼ãŒå°ã•ã„å ´åˆã§ã‚‚è¦‹ã‚„ã™ããªã‚‹ã‚ˆã†ã€Œ3ã€ã«è¨­å®šã—ã¾ã™
         player.setOption('captions', 'fontSize', 3); 
         
-        // •â‘«F•\¦ˆÊ’u‚È‚Ç‚ğƒŠƒZƒbƒg‚µ‚ÄŒ©‚â‚·‚­‚·‚éê‡
+        // è£œè¶³ï¼šè¡¨ç¤ºä½ç½®ãªã©ã‚’ãƒªã‚»ãƒƒãƒˆã—ã¦è¦‹ã‚„ã™ãã™ã‚‹å ´åˆ
         player.setOption('captions', 'reload', true);
     }
 };
@@ -223,7 +223,7 @@ window.setCaption = function(lang) {
     };
 
     window.toggleLoop = function() {
-        if (pointA === null || pointB === null) return alert("A/B“_‚ğƒZƒbƒg‚µ‚Ä‚­‚¾‚³‚¢");
+        if (pointA === null || pointB === null) return alert("A/Bç‚¹ã‚’ã‚»ãƒƒãƒˆã—ã¦ãã ã•ã„");
         isLooping = !isLooping;
         const btn = document.getElementById('btnLoop');
         btn.innerText = isLooping ? "LOOP: ON" : "LOOP: OFF";
@@ -263,7 +263,7 @@ window.setCaption = function(lang) {
         if (display.style.display === 'block') {
             display.style.display = 'none';
         } else {
-            display.innerText = "“Ç‚İ‚İ’†...";
+            display.innerText = "èª­ã¿è¾¼ã¿ä¸­...";
             display.style.display = 'block';
             try {
                 const url = `https://mzhashim.github.io/nhk_english/2021/${currentScriptFile}`;
@@ -272,7 +272,7 @@ window.setCaption = function(lang) {
                 const text = await response.text();
                 display.innerText = text;
             } catch (e) {
-                display.innerText = "ƒXƒNƒŠƒvƒg‚Ìæ“¾‚É¸”s‚µ‚Ü‚µ‚½B";
+                display.innerText = "ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®å–å¾—ã«å¤±æ•—ã—ã¾ã—ãŸã€‚";
             }
         }
     };
@@ -284,7 +284,7 @@ window.setCaption = function(lang) {
     };
 
     window.clearMemo = function() {
-        if (confirm("Á‹‚µ‚Ü‚·‚©H")) {
+        if (confirm("æ¶ˆå»ã—ã¾ã™ã‹ï¼Ÿ")) {
             document.getElementById('memo-area').value = "";
             localStorage.removeItem('yt_study_memo');
         }
