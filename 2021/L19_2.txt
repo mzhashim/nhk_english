@@ -1,28 +1,24 @@
-### Lesson 19: Working From Home (2) 在宅勤務
+L19_2: Working From Home (2)
+Grace: It’s common for people who are working from home on a regular basis for the first time to find that it takes more time and effort to get information from coworkers. We don’t have an IT department right at hand, for example, so we are on our own to a certain degree when we run into tech problems.
 
-**Grace:** It’s common for people who are working from home on a regular basis for the first time to find that it takes more time and effort to get information from coworkers. We don’t have an IT department right at hand, for example, so we are on our own to a certain degree when we run into tech problems.
+グレース： 初めて日常的に在宅勤務をしている人たちは、「同僚から情報を得るためには、オフィス勤務の時よりも時間も労力もかかる」と気づく場合が多いですね。たとえば、すぐ近くにIT部門がないので、技術的な問題に直面した時には、ある程度は自力で対処します。
 
-**Ueda:** Yes, the lack of face-to-face interaction presents some very real challenges. Managers tend to worry that employees won’t work as hard or as efficiently. And employees working from home often feel frustrated by having less access to support and communication from management.
+Ueda: Yes, the lack of face-to-face interaction presents some very real challenges. Managers tend to worry that employees won’t work as hard or as efficiently. And employees working from home often feel frustrated by having less access to support and communication from management.
 
-**Salmans:** On days when I didn’t have many business calls, I took a coffee break and called at least one friend or family member when my productivity started flagging. I took care of mundane tasks like clearing out my inbox later in the evening.
+上田： ええ、対面でのやり取りがないと、非常に現実的な問題がいくつか生じます。マネージャーは、従業員がそれほど熱心に、あるいは効率的に働かないのではないかと心配する傾向があります。そして、在宅勤務をしている従業員は、経営陣からのサポートやコミュニケーションが少なくなったことにもどかしさを感じることがよくあります。  
 
-**Grace:** It’s good to structure your time and have a fixed routine when you’re working from home. Do you have a dedicated work space, Pat?
+Salmans: On days when I didn’t have many business calls, I took a coffee break and called at least one friend or family member when my productivity started flagging. I took care of mundane tasks like clearing out my inbox later in the evening.
 
-**McMillan:** Yes. I have a nice home office where I can work without being disturbed or distracted. It’s actually like a library or den. Nice and comfy. My wife calls it my man cave.
+サルマンズ： 仕事の電話があまりなかった日には、生産性が下がり始めた時にコーヒー休憩を取り、少なくとも1人の友人や家族に電話をしました。受信トレイの整理などの日常的な業務は、夕方遅くに片付けました。  
 
-**Salmans:** That sounds ideal.
+Grace: It’s good to structure your time and have a fixed routine when you’re working from home. Do you have a dedicated work space, Pat?
 
-**グレース：** 初めて日常的に在宅勤務をしている人たちは、「同僚から情報を得るためには、オフィス勤務の時よりも時間も労力もかかる」と気づく場合が多いですね。たとえば、すぐ近くにIT部門がないので、技術的な問題に直面した時には、ある程度は自力で対処します。
+グレース： 在宅勤務をする時は、時間を組み立てて、決まったルーチンを持つのがいいですね。パット、専用の仕事スペースはありますか？
 
-**上田：** ええ、対面でのやり取りがないと、非常に現実的な問題がいくつか生じます。上司は、従業員の仕事の熱心さや効率が下がるのではないか、と心配する傾向があります。さらに、在宅勤務をしている従業員は、上司からのサポートや連絡をあまり得られなくなることでしばしばもどかしさを覚えるのです。
+McMillan: Yes. I have a nice home office where I can work without being disturbed or distracted. It’s actually like a library or den. Nice and comfy. My wife calls it my man cave.
 
-**サルマンズ：** 仕事の電話があまりかかってこなかった日には、生産性が落ち始めた時に、私はコーヒーブレークをとって、友人か家族の少なくとも1人に電話をかけました。メールの受信箱を空にするといった日常的な仕事は、夕方遅くにしていました。
+マクミラン： はい。邪魔されたり気を取られたりせずに仕事ができる、素敵なホームオフィスがあります。実際には図書室か書斎のような感じです。素敵で快適ですよ。妻はそこを私の「男の隠れ家」と呼んでいます。
 
-**グレース：** 在宅勤務をしている時には、時間割を作って日課を決めるのはいいことですね。あなたには仕事専用のスペースがありますか、パット。
+Salmans: That sounds ideal.
 
-**マクミラン：** ええ。邪魔されたり気を散らされたりせずに仕事ができる、快適なホームオフィスがあります。実際は書斎や隠れ家のようなものですね。とても快適です。妻はその部屋を、私にとっての「男の隠れ家」と呼んでいます。
-
-**サルマンズ：** 理想的なようですね。
-
----
-
+サルマンズ： それは理想的ですね。
