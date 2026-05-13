@@ -1,13 +1,47 @@
-﻿**Wu:** She was struggling to pay a big medical bill and got behind in the rent on her apartment. So he left her a tip of $7,000 for a meal that cost less than $50.
-**Ueda:** I read about that. As you can imagine, the waitress was surprised to receive such a large gratuity. At first she thought it must be a mistake. But the man had left a note explaining what he'd done and asking her to accept the money.
-**McMillan:** And even though the media got hold of the story, the chap insisted on remaining anonymous. What a class act.
-**Wu:** A pay-it-forward chain that began in a Florida coffee shop linked more than 750 strangers in a two-day act of coffee kindness. It began when a woman in her 60s offered to buy coffee for the car behind her.
-**McMillan:** I'm on a frequent flyer program with an airline that gives deserving passengers a free flight that they in turn pass on to someone else. The program started when its crew members nominated individuals in their community, and extends to travelers that are looking to fulfill a dream, join a humanitarian effort or make a meaningful impact on the world.
-**Grace:** Bravo to those travelers, and the airline that supports them.
+L03_5
 
-**ウー：**彼女は高額の医療費を払うのに四苦八苦していて、アパートの家賃の支払いが滞ったのです。そこで彼は、50ドルもしない食事に7,000ドルのチップを彼女のために置いていきました。
-**上田：**その話は読みましたよ。ご想像のとおり、そのウェイトレスはそんな多額のチップを受け取って驚きました。最初、彼女は、これは間違いに違いないと思いました。でも、その男性はメモを残していて、自分がそうした理由を説明するとともに、彼女にそのお金を受け取るように求めていたのです。
-**マクミラン：**そして、メディアがその話を聞きつけたのですが、その男性は匿名で通すよう強く求めました。実に立派な人物です。
-**ウー：**フロリダのあるコーヒーショップで始まった恩送りの輪は、2日間にわたるコーヒーの親切買いで、750人を上回る見知らぬ人をつなぎました。これは、ある60代の女性が、自分の後ろの車の人にコーヒーを買うと言ったことから始まったものでしたね。
-**マクミラン：**私が入っているある航空会社のマイレージ・プログラムでは、マイレージがたまった乗客は無料の航空券を受け取れるのですが、その航空券は、次にほかの人に回してもいいのです。このプログラムは、同社の乗務員が自分の住む地域の特定の人たちを指名したことから始まったのですが、夢をかなえたり、人道的な取り組みに加わったり、意義のある影響を世界に与えたりしようとしている旅行者たちに広がっているのです。
-**グレース：**こうした旅行者も彼らを支援する航空会社も、本当にすばらしいですね。
+Wu: She was struggling to pay a big medical bill and got behind in the rent on her apartment.   
+
+ウー：彼女は高額の医療費を払うのに四苦八苦していて、アパートの家賃の支払いが滞ったのです。   
+
+
+Wu: So he left her a tip of $7,000 for a meal that cost less than $50.   
+
+ウー：そこで彼は、50ドルもしない食事に7,000ドルのチップを彼女のために置いていきました。   
+
+Ueda: I read about that. As you can imagine, the waitress was surprised to receive such a large gratuity.   
+
+上田：その話は読みましたよ。ご想像のとおり、そのウェイトレスはそんな多額のチップを受け取って驚きました。   
+
+Ueda: At first she thought it must be a mistake. But the man had left a note explaining what he'd done and asking her to accept the money.   
+
+上田：最初、彼女は、これは間違いに違いないと思いました。でも、その男性はメモを残していて、自分がそうした理由を説明するとともに、彼女にそのお金を受け取るように求めていたのです。   
+
+McMillan: And even though the media got hold of the story, the chap insisted on remaining anonymous. What a class act.   
+
+マクミラン：そして、メディアがその話を聞きつけたのですが、その男性は匿名で通すよう強く求めました。実に立派な人物です。   
+
+
+Wu: A pay-it-forward chain that began in a Florida coffee shop linked more than 750 strangers in a two-day act of coffee kindness.   
+
+ウー：フロリダのあるコーヒーショップで始まった恩送りの輪は、2日間にわたるコーヒーの親切買いで、750人を上回る見知らぬ人をつなぎました。   
+
+
+Wu: It began when a woman in her 60s offered to buy coffee for the car behind her.   
+
+ウー：これは、ある60代の女性が、自分の後ろの車の人にコーヒーを買うと言ったことから始まったものでしたね。   
+
+
+McMillan: I'm on a frequent flyer program with an airline that gives deserving passengers a free flight that they in turn pass on to someone else.   
+
+マクミラン：私が入っているある航空会社のマイレージ・プログラムでは、マイレージがたまった乗客は無料の航空券を受け取れるのですが、その航空券は、次にほかの人に回してもいいのです。   
+
+
+McMillan: The program started when its crew members nominated individuals in their community, and extends to travelers that are looking to fulfill a dream, join a humanitarian effort or make a meaningful impact on the world.   
+
+マクミラン：このプログラムは、同社の乗務員が自分の住む地域の特定の人たちを指名したことから始まったのですが、夢をかなえたり、人道的な取り組みに加わったり、意義のある影響を世界に与えたりしようとしている旅行者たちに広がっているのです。   
+
+
+Grace: Bravo to those travelers, and the airline that supports them.   
+
+グレース：こうした旅行者も彼らを支援する航空会社も、本当にすばらしいですね。
