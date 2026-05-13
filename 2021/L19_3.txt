@@ -1,24 +1,20 @@
-### Lesson 19: Working From Home (3) 在宅勤務
+L19_3: Working From Home (3)
+Salmans: I know that for many people here at A&A, working from home meant sharing desk space with their kids, or having pets make unwelcome appearances during conference calls.
 
-**Salmans:** I know that for many people here at A&A, working from home meant sharing desk space with their kids, or having pets make unwelcome appearances during conference calls.
+サルマンズ： ここA&Aの多くの人にとって、在宅勤務とは子供たちとデスクスペースを共有したり、電話会議中にペットが歓迎されない登場をしたりすることだった、というのは分かっています。
 
-**McMillan:** One smart thing that A&A did was to ask people at the beginning of videoconference staff meetings how they were coping with their new remote-work routine. They understood that having informal chats about non-work topics — without overdoing it — is good for employee morale.
+McMillan: One smart thing that A&A did was to ask people at the beginning of videoconference staff meetings how they were coping with their new remote-work routine. They understood that having informal chats about non-work topics — without overdoing it — is good for employee morale.
 
-**Grace:** Yes, that was an important factor in making sure the company kept operating smoothly. People compared notes on how hard it was to concentrate on work while trying to make sure their kids did their schoolwork and stayed out of their hair. Other folks shared tips about caring for aging parents in distant cities. Then there were people living alone who were going stir-crazy.
+マクミラン： A&Aが行った賢明なことの1つは、ビデオ会議のスタッフミーティングの冒頭で、新しいリモートワークのルーチンにどう対処しているかを尋ねたことです。仕事以外のトピックについて、やりすぎない程度に非公式なチャットをすることが、従業員の士気にとって良いことを彼らは理解していました。  
 
-**Ueda:** Yeah, some of my colleagues developed pretty severe cases of cabin fever. We organized some virtual drinking parties to fight that sense of isolation.
+Grace: Yes, that was an important factor in making sure the company kept operating smoothly. People compared notes on how hard it was to concentrate on work while trying to make sure their kids did their schoolwork and stayed out of their hair. Other folks shared tips about caring for aging parents in distant cities. Then there were people living alone who were going stir-crazy.
 
-**Salmans:** It was a challenge for everybody. I think we all learned a lot from the experience. Lockdown caused people to do some serious thinking about how to balance life and work. Some parents say that while working at home caused their productivity to suffer, their ties with their family became stronger.
+グレース： ええ、それは会社がスムーズに運営し続けるための重要な要素でした。子供たちが学校の勉強をするようにしつつ、自分の邪魔をさせないようにしながら仕事に集中するのがいかに大変か、みんなで情報を共有していました。他の人たちは、遠くの街に住む高齢の両親の世話についてのヒントを共有しました。そして、一人暮らしで缶詰め状態になっておかしくなりそうな人たちもいました。
 
-**サルマンズ：** ここA&Aの多くの人にとって、在宅勤務とは、子供たちと机のスペースを共有したり、ビデオ会議の最中にペットが登場して邪魔になったりすることだった、というのはわかりますね。
+Ueda: Yeah, some of my colleagues developed pretty severe cases of cabin fever. We organized some virtual drinking parties to fight that sense of isolation.
 
-**マクミラン：** A&Aが行った賢明なことの1つは、ビデオ会議システムを使ったスタッフミーティングの冒頭で、「初めての経験である遠隔勤務という日常に、どう対処しているのか」を、みんなに尋ねたことです。仕事以外の話題について雑談するのは、やり過ぎなければ、従業員の勤労意欲にとってプラスになることを、会社は理解していましたね。
+上田： ええ、同僚の中にはかなり深刻な「閉塞感（キャビン・フィーバー）」に陥った人もいました。私たちはその孤独感と戦うために、オンライン飲み会を企画しました。
 
-**グレース：** ええ、それは、会社がスムーズな運営を続けるために、重要な要素でした。「子供たちに学校の勉強をさせて自分の邪魔をさせないようにしながら、仕事に専念する」。このことの大変さについて、みんなで情報交換をしていましたね。遠く離れたところに住む高齢の親の世話について、アドバイスする人たちもいました。さらには、家に閉じ込められて気が滅入っていたという、独り暮らしの人たちがいました。
+Salmans: It was a challenge for everybody. I think we all learned a lot from the experience. Lockdown caused people to do some serious thinking about how to balance life and work. Some parents say that while working at home caused their productivity to suffer, their ties with their family became stronger.
 
-**上田：** そうなのです、長時間家にいたことで、かなりひどいストレスをためた同僚たちもいました。私たちは、そんな孤独感と闘うためにオンラインの飲み会を何回か開きましたよ。
-
-**サルマンズ：** これは、だれにとっても難題でした。私たちは皆、この経験からたくさん学んだと思います。ロックダウンによって、人々は私生活と仕事とのバランスの取り方について、少し真剣に考えるようになりました。在宅勤務によって自分の生産性が損なわれた一方で、家族とのきずなが強まった、と言っている親たちもいます。
-
----
-
+サルマンズ： 全員にとっての課題でしたね。私たちは皆、この経験から多くを学んだと思います。ロックダウンは、生活と仕事のバランスをどう取るかについて、人々に真剣に考えさせるきっかけとなりました。在宅勤務によって生産性は低下したものの、家族との絆が強まったと言う親もいます。
